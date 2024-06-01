@@ -8,9 +8,11 @@ function greetProgrammer() {
 }
 
 /*
-  You should be able to call this function with one argument and see its output in the terminal:
+  You should be able to call this function with one argument and 
+  see its output in the terminal:
   greet("Naureen");
   => "Hello, Naureen!"
+  print(F"Hello, ${name}!")
 */
 function greet(name) {
   console.log(`Hello, ${name}!`);
